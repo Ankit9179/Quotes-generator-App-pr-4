@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Quotes-generator-App-pr-4/static/css/main.f64949f5.css",
+    "main.js": "/Quotes-generator-App-pr-4/static/js/main.9e85711c.js",
+    "index.html": "/Quotes-generator-App-pr-4/index.html",
+    "main.f64949f5.css.map": "/Quotes-generator-App-pr-4/static/css/main.f64949f5.css.map",
+    "main.9e85711c.js.map": "/Quotes-generator-App-pr-4/static/js/main.9e85711c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f64949f5.css",
+    "static/js/main.9e85711c.js"
+  ]
+}
